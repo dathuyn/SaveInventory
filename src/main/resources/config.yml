@@ -1,0 +1,22 @@
+
+#     Developer: DatxCute
+#     Support: Contact me on discord @ huynhdat.
+#
+#     Current list of permissions:
+#       1. saveinventory.save - Used to save data
+#       2. saveinventory.load - Used to load data
+#
+#     description: A basic and lightweight plugin to save player inventory when you want to convert data
+#
+
+messages:
+  enable: "&8[&6!&8]&a SaveInventory has been enabled."
+  disable: "&8[&6!&8]&c SaveInventory has been disabled."
+  inventory_saved: "&8[&6!&8]&a Your inventory has been saved."
+  player_only_command: "&8[&6!&8]&c This command can only be run by a player."
+  usage_save_inventory_load: "&8[&6!&8]&c Usage: /save-inventory-load <player>."
+  no_permission: "&8[&6!&8]&c You do not have permission to use this command."
+  player_not_found: "&8[&6!&8]&c Player not found."
+  inventory_loaded: "&8[&6!&8]&a Inventory loaded for {player}."
+  inventory_loaded_target: "&8[&6!&8]&a Your inventory has been loaded!"
+  no_saved_inventory: "&8[&6!&8]&c No saved inventory found."

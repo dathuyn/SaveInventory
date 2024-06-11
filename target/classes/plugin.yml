@@ -1,0 +1,11 @@
+name: SaveInventory
+version: '1.0'
+main: dev.DatxCute.SaveInventory
+author: DatxCute
+api-version: '1.20'
+
+commands:
+  save-inventory:
+    permission: saveinventory.save
+  save-inventory-load:
+    permission: saveinventory.load
